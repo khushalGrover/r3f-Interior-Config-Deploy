@@ -1,4 +1,3 @@
-// Hero.jsx
 import React, { useState } from "react";
 import Button from "./Button"; // Import your custom Button component
 import { Canvas } from "@react-three/fiber";
